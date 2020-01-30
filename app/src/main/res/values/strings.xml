@@ -1,0 +1,34 @@
+<resources>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="genre">Genre:</string>
+    <string name="release">Release:</string>
+    <string name="score">Score:</string>
+    <string name="app_name">Movie Time</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_release">January 1, 1900</string>
+    <string name="movie_score">0.0</string>
+    <string name="movie_genre">Genres</string>
+    <string name="movie_desc">Lorem Ipsum</string>
+
+    <string name="change_language_settings">Language</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_menu">Menu Activity</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tvshow">TV Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="empty_fav_tv">You don\'t have any favorite tv show</string>
+    <string name="empty_fav_movie">You don\'t have any favorite movie</string>
+    <string name="max_score">/10</string>
+    <string name="add_favorit_movie"> added to your favorite movie</string>
+    <string name="remove_favorite_movie"> removed from your favorite movie</string>
+    <string name="add_favorite_tv"> added to your favorite tv show</string>
+    <string name="remove_favorite_tv"> removed from your favorite tv show</string>
+    <string name="search">Search</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search_tvshow">Search TV Show</string>
+    <string name="movie_search_result">Search Result</string>
+</resources>
